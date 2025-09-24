@@ -8,6 +8,7 @@ public class p {
 		System.out.println("caja 3");
 		System.out.println("caja 4");
 		System.out.println("caja 6");
+		System.out.println("caja 7");
 	}
 
 }
