@@ -6,6 +6,7 @@ public class p {
 		// TODO Auto-generated method stub
 		System.out.println("caja 2");
 		System.out.println("caja 3");
+		System.out.println("caja 4");
 	}
 
 }
